@@ -1,0 +1,197 @@
+[
+  {
+    "_id": "usr001",
+    "nombre": "Usuario 1",
+    "correo": "usuario1@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr002",
+    "nombre": "Usuario 2",
+    "correo": "usuario2@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr003",
+    "nombre": "Usuario 3",
+    "correo": "usuario3@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr004",
+    "nombre": "Usuario 4",
+    "correo": "usuario4@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr005",
+    "nombre": "Usuario 5",
+    "correo": "usuario5@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr006",
+    "nombre": "Usuario 6",
+    "correo": "usuario6@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr007",
+    "nombre": "Usuario 7",
+    "correo": "usuario7@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr008",
+    "nombre": "Usuario 8",
+    "correo": "usuario8@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr009",
+    "nombre": "Usuario 9",
+    "correo": "usuario9@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr010",
+    "nombre": "Usuario 10",
+    "correo": "usuario10@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr011",
+    "nombre": "Usuario 11",
+    "correo": "usuario11@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr012",
+    "nombre": "Usuario 12",
+    "correo": "usuario12@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr013",
+    "nombre": "Usuario 13",
+    "correo": "usuario13@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr014",
+    "nombre": "Usuario 14",
+    "correo": "usuario14@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "bici",
+        "caminar"
+      ],
+      "alertas": false
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  },
+  {
+    "_id": "usr015",
+    "nombre": "Usuario 15",
+    "correo": "usuario15@mail.com",
+    "preferencias": {
+      "movilidad": [
+        "metro",
+        "bus"
+      ],
+      "alertas": true
+    },
+    "fecha_registro": "2025-06-01T08:30:00Z"
+  }
+]

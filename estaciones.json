@@ -1,0 +1,152 @@
+[
+  {
+    "_id": "est001",
+    "nombre": "EcoBici Estación 1",
+    "ubicacion": {
+      "lat": 19.41,
+      "lng": -99.11
+    },
+    "bicicletas_disponibles": 11,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est002",
+    "nombre": "EcoBici Estación 2",
+    "ubicacion": {
+      "lat": 19.419999999999998,
+      "lng": -99.11999999999999
+    },
+    "bicicletas_disponibles": 12,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est003",
+    "nombre": "EcoBici Estación 3",
+    "ubicacion": {
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    "bicicletas_disponibles": 13,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est004",
+    "nombre": "EcoBici Estación 4",
+    "ubicacion": {
+      "lat": 19.439999999999998,
+      "lng": -99.14
+    },
+    "bicicletas_disponibles": 14,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est005",
+    "nombre": "EcoBici Estación 5",
+    "ubicacion": {
+      "lat": 19.45,
+      "lng": -99.14999999999999
+    },
+    "bicicletas_disponibles": 15,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est006",
+    "nombre": "EcoBici Estación 6",
+    "ubicacion": {
+      "lat": 19.459999999999997,
+      "lng": -99.16
+    },
+    "bicicletas_disponibles": 16,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est007",
+    "nombre": "EcoBici Estación 7",
+    "ubicacion": {
+      "lat": 19.47,
+      "lng": -99.16999999999999
+    },
+    "bicicletas_disponibles": 17,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est008",
+    "nombre": "EcoBici Estación 8",
+    "ubicacion": {
+      "lat": 19.479999999999997,
+      "lng": -99.17999999999999
+    },
+    "bicicletas_disponibles": 18,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est009",
+    "nombre": "EcoBici Estación 9",
+    "ubicacion": {
+      "lat": 19.49,
+      "lng": -99.19
+    },
+    "bicicletas_disponibles": 19,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est010",
+    "nombre": "EcoBici Estación 10",
+    "ubicacion": {
+      "lat": 19.5,
+      "lng": -99.19999999999999
+    },
+    "bicicletas_disponibles": 20,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est011",
+    "nombre": "EcoBici Estación 11",
+    "ubicacion": {
+      "lat": 19.509999999999998,
+      "lng": -99.21
+    },
+    "bicicletas_disponibles": 21,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est012",
+    "nombre": "EcoBici Estación 12",
+    "ubicacion": {
+      "lat": 19.52,
+      "lng": -99.22
+    },
+    "bicicletas_disponibles": 22,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est013",
+    "nombre": "EcoBici Estación 13",
+    "ubicacion": {
+      "lat": 19.529999999999998,
+      "lng": -99.22999999999999
+    },
+    "bicicletas_disponibles": 23,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est014",
+    "nombre": "EcoBici Estación 14",
+    "ubicacion": {
+      "lat": 19.54,
+      "lng": -99.24
+    },
+    "bicicletas_disponibles": 24,
+    "tipo": "compartida"
+  },
+  {
+    "_id": "est015",
+    "nombre": "EcoBici Estación 15",
+    "ubicacion": {
+      "lat": 19.549999999999997,
+      "lng": -99.25
+    },
+    "bicicletas_disponibles": 25,
+    "tipo": "compartida"
+  }
+]

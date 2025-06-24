@@ -1,0 +1,182 @@
+[
+  {
+    "_id": "ruta001",
+    "origen": "Origen 1, Ciudad",
+    "destino": "Destino 1, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 21,
+    "distancia_km": 5.7,
+    "co2_ahorrado_kg": 0.9
+  },
+  {
+    "_id": "ruta002",
+    "origen": "Origen 2, Ciudad",
+    "destino": "Destino 2, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 22,
+    "distancia_km": 6.4,
+    "co2_ahorrado_kg": 1.0
+  },
+  {
+    "_id": "ruta003",
+    "origen": "Origen 3, Ciudad",
+    "destino": "Destino 3, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 23,
+    "distancia_km": 7.1,
+    "co2_ahorrado_kg": 1.1
+  },
+  {
+    "_id": "ruta004",
+    "origen": "Origen 4, Ciudad",
+    "destino": "Destino 4, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 24,
+    "distancia_km": 7.8,
+    "co2_ahorrado_kg": 1.2
+  },
+  {
+    "_id": "ruta005",
+    "origen": "Origen 5, Ciudad",
+    "destino": "Destino 5, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 25,
+    "distancia_km": 8.5,
+    "co2_ahorrado_kg": 1.3
+  },
+  {
+    "_id": "ruta006",
+    "origen": "Origen 6, Ciudad",
+    "destino": "Destino 6, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 26,
+    "distancia_km": 9.2,
+    "co2_ahorrado_kg": 1.4
+  },
+  {
+    "_id": "ruta007",
+    "origen": "Origen 7, Ciudad",
+    "destino": "Destino 7, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 27,
+    "distancia_km": 9.9,
+    "co2_ahorrado_kg": 1.5
+  },
+  {
+    "_id": "ruta008",
+    "origen": "Origen 8, Ciudad",
+    "destino": "Destino 8, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 28,
+    "distancia_km": 10.6,
+    "co2_ahorrado_kg": 1.6
+  },
+  {
+    "_id": "ruta009",
+    "origen": "Origen 9, Ciudad",
+    "destino": "Destino 9, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 29,
+    "distancia_km": 11.3,
+    "co2_ahorrado_kg": 1.7
+  },
+  {
+    "_id": "ruta010",
+    "origen": "Origen 10, Ciudad",
+    "destino": "Destino 10, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 30,
+    "distancia_km": 12.0,
+    "co2_ahorrado_kg": 1.8
+  },
+  {
+    "_id": "ruta011",
+    "origen": "Origen 11, Ciudad",
+    "destino": "Destino 11, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 31,
+    "distancia_km": 12.7,
+    "co2_ahorrado_kg": 1.9
+  },
+  {
+    "_id": "ruta012",
+    "origen": "Origen 12, Ciudad",
+    "destino": "Destino 12, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 32,
+    "distancia_km": 13.4,
+    "co2_ahorrado_kg": 2.0
+  },
+  {
+    "_id": "ruta013",
+    "origen": "Origen 13, Ciudad",
+    "destino": "Destino 13, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 33,
+    "distancia_km": 14.1,
+    "co2_ahorrado_kg": 2.1
+  },
+  {
+    "_id": "ruta014",
+    "origen": "Origen 14, Ciudad",
+    "destino": "Destino 14, Ciudad",
+    "modos": [
+      "metro",
+      "bicicleta"
+    ],
+    "duracion": 34,
+    "distancia_km": 14.8,
+    "co2_ahorrado_kg": 2.2
+  },
+  {
+    "_id": "ruta015",
+    "origen": "Origen 15, Ciudad",
+    "destino": "Destino 15, Ciudad",
+    "modos": [
+      "bus",
+      "caminar"
+    ],
+    "duracion": 35,
+    "distancia_km": 15.5,
+    "co2_ahorrado_kg": 2.3
+  }
+]

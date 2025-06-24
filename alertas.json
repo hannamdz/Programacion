@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "alerta001",
+    "tipo": "cierre",
+    "descripcion": "Aviso 1 en calle importante",
+    "ubicacion": {
+      "lat": 19.305,
+      "lng": -99.205
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta002",
+    "tipo": "congestion",
+    "descripcion": "Aviso 2 en calle importante",
+    "ubicacion": {
+      "lat": 19.310000000000002,
+      "lng": -99.21000000000001
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta003",
+    "tipo": "cierre",
+    "descripcion": "Aviso 3 en calle importante",
+    "ubicacion": {
+      "lat": 19.315,
+      "lng": -99.215
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta004",
+    "tipo": "congestion",
+    "descripcion": "Aviso 4 en calle importante",
+    "ubicacion": {
+      "lat": 19.32,
+      "lng": -99.22
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta005",
+    "tipo": "cierre",
+    "descripcion": "Aviso 5 en calle importante",
+    "ubicacion": {
+      "lat": 19.325,
+      "lng": -99.22500000000001
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta006",
+    "tipo": "congestion",
+    "descripcion": "Aviso 6 en calle importante",
+    "ubicacion": {
+      "lat": 19.330000000000002,
+      "lng": -99.23
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta007",
+    "tipo": "cierre",
+    "descripcion": "Aviso 7 en calle importante",
+    "ubicacion": {
+      "lat": 19.335,
+      "lng": -99.235
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta008",
+    "tipo": "congestion",
+    "descripcion": "Aviso 8 en calle importante",
+    "ubicacion": {
+      "lat": 19.34,
+      "lng": -99.24000000000001
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta009",
+    "tipo": "cierre",
+    "descripcion": "Aviso 9 en calle importante",
+    "ubicacion": {
+      "lat": 19.345000000000002,
+      "lng": -99.245
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta010",
+    "tipo": "congestion",
+    "descripcion": "Aviso 10 en calle importante",
+    "ubicacion": {
+      "lat": 19.35,
+      "lng": -99.25
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta011",
+    "tipo": "cierre",
+    "descripcion": "Aviso 11 en calle importante",
+    "ubicacion": {
+      "lat": 19.355,
+      "lng": -99.25500000000001
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta012",
+    "tipo": "congestion",
+    "descripcion": "Aviso 12 en calle importante",
+    "ubicacion": {
+      "lat": 19.36,
+      "lng": -99.26
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta013",
+    "tipo": "cierre",
+    "descripcion": "Aviso 13 en calle importante",
+    "ubicacion": {
+      "lat": 19.365000000000002,
+      "lng": -99.265
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta014",
+    "tipo": "congestion",
+    "descripcion": "Aviso 14 en calle importante",
+    "ubicacion": {
+      "lat": 19.37,
+      "lng": -99.27
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  },
+  {
+    "_id": "alerta015",
+    "tipo": "cierre",
+    "descripcion": "Aviso 15 en calle importante",
+    "ubicacion": {
+      "lat": 19.375,
+      "lng": -99.275
+    },
+    "activo": true,
+    "fecha": "2025-06-17T09:00:00Z"
+  }
+]
